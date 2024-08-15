@@ -30,8 +30,8 @@ This project demonstrates how to implement Basic Authentication using Spring Sec
   ```
 
 ### Root Account
-username = root
-password = 1234
+- username = root
+- password = 1234
 
 
 ### config/AccountWebSecurity.java
